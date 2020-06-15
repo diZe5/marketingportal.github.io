@@ -52,7 +52,7 @@ and open the template in the editor.
         
         <div id="p3">POWER SECTOR-MARKETING</div>
         <h3>Welcome to default page</h3>
-        <a href="changepass.php" id="chpas">Change Password</a>
+        <a href="passwordrecovery2.php" id="chpas">Change Password</a>
         <a href="updateprof.php" id="upprof">Update Profile</a>
         <a href="Loginpage.php" id="log">Login</a>
         <div class="ScrollStyle">
