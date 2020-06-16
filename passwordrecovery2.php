@@ -33,10 +33,10 @@ and open the template in the editor.
     $newpassword='';
     for($i=0;$i<7;$i++)
         $newpassword .= $chars[mt_rand(0,61)];
-    $servername='localhost';
-     $user='root';
-     $pass='snores';
-     $db='login';
+    $servername='sql12.freesqldatabase.com';
+     $user='sql12348806';
+     $pass=' jPZ9eeVJkb';
+     $db='sql12348806';
      // Create connection
      $conn = mysqli_connect($servername, $user, $pass,$db);
 

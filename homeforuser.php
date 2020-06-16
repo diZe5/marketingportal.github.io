@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","snores","login");
+$conn = mysqli_connect("sql12.freesqldatabase.com","sql12348806"," jPZ9eeVJkb","sql12348806");
 
 
 $sql = "SELECT * FROM upload";

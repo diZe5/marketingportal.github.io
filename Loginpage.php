@@ -64,10 +64,10 @@
 		<?php
 		if(isset($_POST['login']))
 		{	
-                      $servername='localhost';
-                      $user='root';
-                      $pass='snores';
-                      $db='login';
+                      $servername='sql12.freesqldatabase.com';
+                      $user='sql12348806';
+                      $pass='jPZ9eeVJkb';
+                      $db='sql12348806';
                       
                     
                         $conn = mysqli_connect($servername, $user, $pass,$db);
